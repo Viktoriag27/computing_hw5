@@ -15,11 +15,11 @@ setup(
     long_description_content_type='text/markdown',
     author='Viktoria, Tarang and Enzo from DSDM 2025',
     author_email='viktoria.gagua@bse.eu',
-    url='https://github.com/Viktoriag27/computing_hw5',  # URL of your project repository
+    url='https://github.com/Viktoriag27/computing_hw5',  # URL of our project repository
     classifiers=[  # Classifiers for Python Package Index (PyPI)
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
     ],
-    python_requires='>=3.6',  # Specify the minimum Python version
+    python_requires='>=3.6',  # Minimum Python version
 )
