@@ -1,6 +1,6 @@
 ##### Try to use map and reduce in the next 3 exercises
 
-#################################################
+################################################# HI EVERYONE
 # 1)
 # Create a function called "count_simba" that counts and returns
 # the number of times that Simba appears in a list of
